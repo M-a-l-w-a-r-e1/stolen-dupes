@@ -1,7 +1,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=[M-a-l-w-a-r-e1].stolen-dupes)
-# Discord Sevrer 
+# Discord Server
 ![Discord](https://img.shields.io/discord/997692186051215382?label=Discord&?style=plastic)
 
 

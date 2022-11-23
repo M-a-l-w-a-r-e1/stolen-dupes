@@ -3,6 +3,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=[M-a-l-w-a-r-e1].stolen-dupes)
 # Discord Server
 ![Discord](https://img.shields.io/discord/997692186051215382?label=Discord&?style=plastic)
+https://discord.gg/4BfGEpDekS
 
 
 [forks-shield]: https://img.shields.io/github/forks/M-a-l-w-a-r-e1/stolen-dupes.svg?style=plastic

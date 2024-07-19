@@ -8,9 +8,9 @@
 [forks-url]: https://github.com/M-a-l-w-a-r-e1/stolen-dupes/network/members
 [stars-shield]: https://img.shields.io/github/stars/M-a-l-w-a-r-e1/stolen-dupes.svg?style=plastic
 [stars-url]: https://github.com/M-a-l-w-a-r-e1/stolen-dupes/stargazers
-# epic
-gamer moment
-## **NOTE**
+
+# **NOTE**
 Not my fault that you got banned from one of these servers because you used one of those dupes.
+# yay
 I uploaded my bases in SANDBOX/my own
 

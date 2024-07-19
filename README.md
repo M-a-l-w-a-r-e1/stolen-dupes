@@ -12,5 +12,5 @@
 gamer moment
 ## **NOTE**
 Not my fault that you got banned from one of these servers because you used one of those dupes.
-In the future, I might upload my own bases but for now no.
+I uploaded my bases in SANDBOX/my own
 

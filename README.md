@@ -12,6 +12,6 @@
 # **NOTE**
 Not my fault that you got banned from one of these servers because you used one of those dupes.
 # Extra
-I uploaded my bases in SANDBOX/my own
-random bases in DARKRP/other
+- I uploaded my bases in SANDBOX/my own
+- random bases in DARKRP/other
 
